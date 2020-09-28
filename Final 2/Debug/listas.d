@@ -1,0 +1,1 @@
+listas.d: ../listas.c
